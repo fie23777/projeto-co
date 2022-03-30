@@ -1,0 +1,14 @@
+{
+  "produto": [
+     {"id":1, "nome": "joao", "email":"joao@joao.com"},
+     {"id":2, "nome": "Diego", "email":"diego@diego.com"}
+  ],
+  "quem-somos-nos": {"id":1, "titulo": "nkkldsfjkdsjflkdsjfkldsfljdsklfjdlksjfjdskfjkdlsjfkldsjlf"},
+
+  "questionario":[
+    {"pergunta":"co é gay?", "resposta":"S"},
+    {"pergunta":"fie é fera", "resposta":"S"},
+    {"pergunta":"co é homem?", "resposta":"N"},
+    {"pergunta":"fie é homem", "resposta":"Com certeza"},
+    {"pergunta":"co queima?", "resposta":"Queima muito"}]
+}
